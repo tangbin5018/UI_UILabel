@@ -38,6 +38,7 @@
     NSLog(@"Touch up Button !");
     NSLog(@"再次提交");//修改了这里
     
+    NSLog(@"you finnished!!");
     
     
 }
